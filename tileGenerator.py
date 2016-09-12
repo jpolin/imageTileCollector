@@ -6,7 +6,7 @@
 
 # User parameters:
 nphotos = 1000
-search_query = "boobs"
+search_query = "cool cars"
 photo_size = (80, 80) # (w, h) in pixels
 write_dir = "photos/"
 
