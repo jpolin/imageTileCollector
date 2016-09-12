@@ -2,7 +2,7 @@
 #
 # Author: Joe Polin
 # Date: September, 2016
-# Description: Download pictures from google and convert to desired format.
+# Description: Download pictures from google and store in folder.
 
 # User parameters:
 nphotos = 1000
